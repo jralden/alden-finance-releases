@@ -4,12 +4,12 @@
         <title>Alden Finance</title>
         <item>
             <title>0.2</title>
-            <pubDate>Thu, 08 Oct 2026 17:39:21 +0100</pubDate>
+            <pubDate>Thu, 08 Oct 2026 17:46:13 +0100</pubDate>
             <sparkle:version>553</sparkle:version>
             <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/jralden/alden-finance-releases/releases/download/v0.2/Alden-Finance-0.2.zip" length="1366193" type="application/octet-stream"/>
+            <enclosure url="https://github.com/jralden/alden-finance-releases/releases/download/v0.2/Alden-Finance-0.2.zip" length="1366340" type="application/octet-stream" sparkle:edSignature="KmkcmWXcNNw0Z7sy+C6yJjnzZYqsgQBQmRLLzU56nnu7SACpZuqp34dMAhWVxP2sFcCf1Q6GAFINKT0gVwx5Dg=="/>
         </item>
     </channel>
 </rss>
