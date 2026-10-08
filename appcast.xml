@@ -10,9 +10,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/jralden/alden-finance-releases/releases/download/v0.3/Alden-Finance-0.3.zip" length="1884429" type="application/octet-stream" sparkle:edSignature="Atqe4tR8+FZ9sLqNfa+Tm6klm+p3oJCTWYmHballft4y4vehUuxE6Gt95ih3l6dmM4x2t/LM7dVJDUjQrF9hCA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/jralden/alden-finance-releases/releases/download/v0.3/Alden%20Finance562-553.delta" sparkle:deltaFrom="553" length="465210" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="D2uFM9K9er4FQPrbCZmQxHGVmQcnpieZkR/DWkbBmKtmZOI2MIHN7dstOauaLH0c0NRxjrU7m+y0/WPYm3LNCQ=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.2</title>
