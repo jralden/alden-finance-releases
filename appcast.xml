@@ -3,13 +3,25 @@
     <channel>
         <title>Alden Finance</title>
         <item>
+            <title>0.3</title>
+            <pubDate>Thu, 08 Oct 2026 19:13:09 +0100</pubDate>
+            <sparkle:version>562</sparkle:version>
+            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/jralden/alden-finance-releases/releases/download/v0.3/Alden-Finance-0.3.zip" length="1884429" type="application/octet-stream" sparkle:edSignature="Atqe4tR8+FZ9sLqNfa+Tm6klm+p3oJCTWYmHballft4y4vehUuxE6Gt95ih3l6dmM4x2t/LM7dVJDUjQrF9hCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jralden/alden-finance-releases/releases/download/v0.3/Alden%20Finance562-553.delta" sparkle:deltaFrom="553" length="465210" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="D2uFM9K9er4FQPrbCZmQxHGVmQcnpieZkR/DWkbBmKtmZOI2MIHN7dstOauaLH0c0NRxjrU7m+y0/WPYm3LNCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2</title>
             <pubDate>Thu, 08 Oct 2026 17:46:13 +0100</pubDate>
             <sparkle:version>553</sparkle:version>
             <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/jralden/alden-finance-releases/releases/download/v0.2/Alden-Finance-0.2.zip" length="1366340" type="application/octet-stream" sparkle:edSignature="KmkcmWXcNNw0Z7sy+C6yJjnzZYqsgQBQmRLLzU56nnu7SACpZuqp34dMAhWVxP2sFcCf1Q6GAFINKT0gVwx5Dg=="/>
+            <enclosure url="https://github.com/jralden/alden-finance-releases/releases/download/v0.3/Alden-Finance-0.2.zip" length="1366340" type="application/octet-stream" sparkle:edSignature="KmkcmWXcNNw0Z7sy+C6yJjnzZYqsgQBQmRLLzU56nnu7SACpZuqp34dMAhWVxP2sFcCf1Q6GAFINKT0gVwx5Dg=="/>
         </item>
     </channel>
 </rss>
